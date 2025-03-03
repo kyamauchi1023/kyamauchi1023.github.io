@@ -51,6 +51,11 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 ## Domestic Conferences
 
 - **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
+**離散音声トークン生成に基づく感情合成音声のための多目的知覚評価値を活用したdecoding戦略**<br>
+情報処理学会研究報告, Vol. 2025-SLP-155, No. 16, 2025年3月. \[音声・音響・信号処理ワークショップ, 口頭発表\]
+
+
+- **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークン生成によるテキスト音声合成のための音声主観評価値予測に基づくdecoding戦略**<br>
 情報処理学会研究報告, Vol. 2024-SLP-152, No. 14, 2024年6月. \[音学シンポジウム, ポスター発表\]<br>
 🎉 **音学シンポジウム 優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
