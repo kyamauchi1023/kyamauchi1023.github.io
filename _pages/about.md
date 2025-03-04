@@ -51,7 +51,7 @@ Aichi Prefectural Meiwa Senior High School<br>
 ## Awards & Honours
 
 - Dec. 2024<br>
-🎉 **IEEE SPS Japan Student Conference Paper Award** \[[link](https://www.ieee-jp.org/section/tokyo/chapter/SP-01/sp.htm)\]<br>
+🎉 **IEEE Signal Processsing Society Japan Student Conference Paper Award** \[[link](https://www.ieee-jp.org/section/tokyo/chapter/SP-01/sp.htm)\]<br>
 IEEE Signal Processsing Society (SPS) Japan
 - Jun. 2024<br>
 🎉 **Best Presentation Award / 優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
