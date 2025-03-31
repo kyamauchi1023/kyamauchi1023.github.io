@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a 2nd-year Master student at [Saruwatari & Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
-My research focuses on the domain of speech and language processing such as speech synthesis, voice conversion, and para/non-linguistic information modeling.
+Hello, I am a Ph.D. student at [Saruwatari & Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
+My research focuses on the domain of speech and language processing such as speech synthesis, voice conversion, and speech enhancement.
 I am especially interested in modeling and generating expressive prosody.
 Also, through it, I aim to the development of human-friendly speech agents that can adaptively and naturally communicate with a variety of people.
 
-[東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [猿渡・齋藤研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士2年の山内一輝です．
-音声合成，音声変換，パラ言語/非言語情報のモデリングなど，音声言語情報処理の領域を中心に研究しています．
+[東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [猿渡・齋藤研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 博士後期課程学生の山内一輝です．
+音声合成，音声変換，音声強調など，音声言語情報処理の領域を中心に研究しています．
 その中でも特に，表現力豊かな韻律のモデリングや生成に興味を持っています．
 また，それを通して，様々な人と適応的かつ自然にコミュニケーションができる，ヒューマンフレンドリーな音声エージェントの開発を目指しています．
 
@@ -28,6 +28,7 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 - Speech and Language Processing
 - Speech Synthesis
+- Speech Enhancement
 - Natural Language Processing
 - Deep Learning
 - Signal Processing
@@ -35,10 +36,16 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 ## Education
 
-- Apr. 2023 - Present<br>
+- Apr. 2025 - Present<br>
+**Ph.D. Degree in Information Science and Technology**, the University of Tokyo, Japan<br>
+Department of Information Physics & Computing, Graduate School of Information Science and Technology<br>
+(東京大学 大学院情報理工学系研究科 システム情報学専攻)<br>
+Supervisor: Prof. [Yuki Saito](https://scholar.google.co.jp/citations?user=OnYkgnoAAAAJ&hl=en)
+- Apr. 2023 - Mar. 2025<br>
 **Master’s Degree in Information Science and Technology**, the University of Tokyo, Japan<br>
 Department of Creative Informatics, Graduate School of Information Science and Technology<br>
-(東京大学 大学院情報理工学系研究科 創造情報学専攻)
+(東京大学 大学院情報理工学系研究科 創造情報学専攻)<br>
+Supervisor: Prof. [Hiroshi Saruwatari](https://scholar.google.com/citations?user=OS1XAoMAAAAJ&hl=en)
 - Apr. 2019 - Mar. 2023<br>
 **Bachelor’s Degree in Engineering**, the University of Tokyo, Japan<br>
 Department of Mathematical Engineering and Information Physics, Faculty of Engineering<br>
@@ -67,7 +74,11 @@ Acoustical Society of Japan, ASJ / 日本音響学会
 IEICE Speech Committee / 電子情報通信学会 音声研究会
 
 
-<!-- ## Grants & Scholarships -->
+## Grants & Scholarships
+
+- Apr. 2025 - Present<br>
+**Advanced AI Talent Development to Lead the Next-Generation Intelligent Society (BOOST NAIS)**<br>
+The University of Tokyo
 
 
 ## Research and Work Experiences
