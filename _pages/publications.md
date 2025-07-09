@@ -15,6 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+## Journal Paper (Peer-Reviewed)
+
+-  Kentaro Seki, Nobutaka Ito, **<u>Kazuki Yamauchi</u>**, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, and Hiroshi Saruwatari<br>
+**Language-queried target speech extraction using para-linguistic and non-linguistic prompts**<br>
+Acoustical Science and Technology, Vol. xx, No. xx, pp. xxx–xxx, xxx. 2025. (Accepted)
+
+
+
 ## International Conferences (Peer-Reviewed)
 
 -  **<u>Kazuki Yamauchi</u>**, Wataru Nakata, Yuki Saito, and Hiroshi Saruwatari<br>
@@ -49,6 +58,11 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 
 
 ## Domestic Conferences
+
+- 有田 諒子, 中田 亘, **<u>山内 一輝</u>**, 関 健太郎, 楊 棟, 齋藤 佑樹, 猿渡 洋<br>
+**離散音声トークンを活用した歌声合成システムの開発に向けた音響モデルと特徴量の検討**<br>
+情報処理学会研究報告, Vol. 2025-SLP-156, No. 85, 2025年6月. \[音学シンポジウム, ポスター発表\]
+
 
 - **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークン生成に基づく感情合成音声のための多目的知覚評価値を活用したdecoding戦略**<br>
