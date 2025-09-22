@@ -48,6 +48,11 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 
 ## International Conferences (Abstract-Reviewed)
 
+-  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
+**Speech Synthesis with Perceptual Rating-Guided Parallel Iterative Decoding**<br>
+ASA/ASJ Joint Fall 2025 Annual Meeting, Dec. 2025. \[Poster presentation\]<br>
+
+
 - Wataru Nakata\*, **<u>Kazuki Yamauchi</u>**\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\***Equal contribution**)<br>
 **UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
 IEEE SLT 2024 Recent Breakthrough Results Session, Dec. 2024. \[Poster presentation\]<br>
@@ -58,6 +63,21 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 
 
 ## Domestic Conferences
+
+- 中田 亘, **<u>山内 一輝</u>**, 関 健太郎, 齋藤 佑樹, 猿渡 洋, 中村 友彦, 坂東 宜昭, 深山 覚<br>
+**BigGSE：自己教師ありモデル特徴量空間でのFlow matchingに基づく生成的音声強調**<br>
+日本音響学会 2025年秋季研究発表会, 2-1-5, pp. 1189--1192, 2025年9月. \[日本音響学会, 口頭発表\]
+
+
+- 関 健太郎, 伊藤 信貴, **<u>山内 一輝</u>**, 岡本 悠希, 山岡 洸瑛, 齋藤 佑樹, 高道 慎之介, 猿渡 洋<br>
+**パラ言語・非言語情報の記述文をクエリとした目的音声抽出**<br>
+日本音響学会 2025年秋季研究発表会, 1-R-19, pp. 291--294, 2025年9月. \[日本音響学会, ポスター発表\]
+
+
+- 川松 亮太, 濱田 誉輝, **<u>山内 一輝</u>**, 齋藤 佑樹, 猿渡 洋<br>
+**絵文字を活用した新たな音声感情ラベルアノテーションの実施と分析**<br>
+YANS2025, no paper, 2025年9月. \[YANS, ポスター発表\]
+
 
 - 有田 諒子, 中田 亘, **<u>山内 一輝</u>**, 関 健太郎, 楊 棟, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークンを活用した歌声合成システムの開発に向けた音響モデルと特徴量の検討**<br>
