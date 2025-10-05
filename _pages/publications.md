@@ -16,6 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 
+## Invited Articles
+
+- Yuki Saito, Wataru Nakata, **<u>Kazuki Yamauchi</u>**, and Joonyong Park<br>
+**Speech synthesis based on large pretrained models**<br>
+Journal of Acoustical Society of Japan, Vol. 81, No. 10, Oct. 2025.
+
+
+
 ## Journal Paper (Peer-Reviewed)
 
 -  Kentaro Seki, Nobutaka Ito, **<u>Kazuki Yamauchi</u>**, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, and Hiroshi Saruwatari<br>
