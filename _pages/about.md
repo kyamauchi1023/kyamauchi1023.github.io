@@ -28,7 +28,7 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 - Speech and Language Processing
 - Speech Synthesis
-- Speech Enhancement
+- Speech Restoration
 - Natural Language Processing
 - Deep Learning
 - Signal Processing
