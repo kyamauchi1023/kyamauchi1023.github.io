@@ -19,6 +19,7 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 その中でも特に，表現力豊かな韻律のモデリングや生成に興味を持っています．
 また，それを通して，様々な人と適応的かつ自然にコミュニケーションができる，ヒューマンフレンドリーな音声エージェントの開発を目指しています．
 
+**CV**: [cv_kazuki_yamauchi.pdf](/files/cv_kazuki_yamauchi.pdf)
 **Email (university)**: yamauchi-kazuki042 [at] g.ecc.u-tokyo.ac.jp<br>
 **Email (personal)**: kyamauchi1023 [at] gmail.com<br>
 **Address**: Room #140, Engineering bldg. #6, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
