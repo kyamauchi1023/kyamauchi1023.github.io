@@ -28,11 +28,16 @@ Journal of Acoustical Society of Japan, Vol. 81, No. 10, Oct. 2025.
 
 -  Kentaro Seki, Nobutaka Ito, **<u>Kazuki Yamauchi</u>**, Yuki Okamoto, Kouei Yamaoka, Yuki Saito, Shinnosuke Takamichi, and Hiroshi Saruwatari<br>
 **Language-queried target speech extraction using para-linguistic and non-linguistic prompts**<br>
-Acoustical Science and Technology, Vol. xx, No. xx, pp. xxx–xxx, xxx. 2025. (Accepted)
+Acoustical Science and Technology, Vol. 46, No. 6, pp. 671–675, Nov. 2025.
 
 
 
 ## International Conferences (Peer-Reviewed)
+
+-  **<u>Kazuki Yamauchi</u>**, Masato Murata, Shogo Seki<br>
+**Confidence-based Filtering for Speech Dataset Curation with Generative Speech Enhancement Using Discrete Tokens**<br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE ICASSP**), May 2026. (Accepted)
+
 
 -  **<u>Kazuki Yamauchi</u>**, Wataru Nakata, Yuki Saito, and Hiroshi Saruwatari<br>
 **Decoding Strategy with Perceptual Rating Prediction for Language Model-Based Text-to-Speech Synthesis**<br>
@@ -59,6 +64,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 -  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
 **Speech Synthesis with Perceptual Rating-Guided Parallel Iterative Decoding**<br>
 ASA/ASJ Joint Fall 2025 Annual Meeting, Dec. 2025. \[Poster presentation\]<br>
+[[poster](/files/yamauchi25asa-asj_poster.pdf)\]
 
 
 - Wataru Nakata\*, **<u>Kazuki Yamauchi</u>**\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\***Equal contribution**)<br>
@@ -71,6 +77,16 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 
 
 ## Domestic Conferences
+
+- **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
+**ReDialTTS-JP: 音声復元したIn-the-Wild方言音声を用いた日本語多方言音声合成**<br>
+日本音響学会 2026年春季研究発表会, 1-5-1, pp. xxxx--xxxx, 2026年3月. \[日本音響学会, 口頭発表\]
+
+
+- **<u>山内 一輝</u>**, 村田 雅人, 関 翔悟<br>
+**離散トークンベースの生成的音声強調の信頼度スコアに基づく出力フィルタリング**<br>
+日本音響学会 2026年春季研究発表会, 1-5-2, pp. xxxx--xxxx, 2026年3月. \[日本音響学会, 口頭発表\]
+
 
 - 中田 亘, **<u>山内 一輝</u>**, 関 健太郎, 齋藤 佑樹, 猿渡 洋, 中村 友彦, 坂東 宜昭, 深山 覚<br>
 **BigGSE：自己教師ありモデル特徴量空間でのFlow matchingに基づく生成的音声強調**<br>
