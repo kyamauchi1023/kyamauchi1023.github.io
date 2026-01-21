@@ -36,7 +36,8 @@ Acoustical Science and Technology, Vol. 46, No. 6, pp. 671–675, Nov. 2025.
 
 -  **<u>Kazuki Yamauchi</u>**, Masato Murata, Shogo Seki<br>
 **Confidence-based Filtering for Speech Dataset Curation with Generative Speech Enhancement Using Discrete Tokens**<br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE ICASSP**), May 2026. (Accepted)
+IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE ICASSP**), May 2026. (Accepted)<br>
+\[[arXiv](https://arxiv.org/abs/2601.12254)\]
 
 
 -  **<u>Kazuki Yamauchi</u>**, Wataru Nakata, Yuki Saito, and Hiroshi Saruwatari<br>
