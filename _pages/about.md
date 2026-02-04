@@ -87,15 +87,15 @@ The University of Tokyo
 - Jul. 2025 - Present<br>
 **CyberAgent, Inc. AI Lab / 株式会社サイバーエージェント AI Lab**, Research Internship<br>
 Researching at the Audio team.
-- Mar. 2023 - Feb. 2026<br>
-**CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
-Researching on speech processing.
 - Jul. 2024 - Sep. 2024<br>
 **RIKEN Guardian Robot Project / 理研ガーディアンロボットプロジェクト**, Research Internship<br>
 Researched at Knowledge Acquisition and Dialogue Research Team.
 - Aug. 2023 - Sep. 2023<br>
 **NTT Human Informatics Laboratories / NTT人間情報研究所**, Research Internship<br>
 Researched on speaking style captioning.
+- Mar. 2023 - Feb. 2026<br>
+**CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
+Researching on speech processing.
 - Sep. 2021 - Mar. 2024<br>
 **Nagase Brothers Inc. / 株式会社ナガセ**, Part-Time AI Researcher & Engineer<br>
 Worked on natural language processing and developed web application.
