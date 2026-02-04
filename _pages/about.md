@@ -87,7 +87,7 @@ The University of Tokyo
 - Jul. 2025 - Present<br>
 **CyberAgent, Inc. AI Lab / 株式会社サイバーエージェント AI Lab**, Research Internship<br>
 Researching at the Audio team.
-- Mar. 2023 - Present<br>
+- Mar. 2023 - Feb. 2026<br>
 **CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
 Researching on speech processing.
 - Jul. 2024 - Sep. 2024<br>
