@@ -117,6 +117,7 @@ YANS2025, no paper, 2025年9月. \[YANS, ポスター発表\]
 - **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークン生成に基づく感情合成音声のための多目的知覚評価値を活用したdecoding戦略**<br>
 情報処理学会研究報告, Vol. 2025-SLP-155, No. 16, 2025年3月. \[音声・音響・信号処理ワークショップ, 口頭発表\]<br>
+🎉 **2025年度 SLP研究会 企業賞 (LINEヤフー賞)** \[[link](https://www.ipsj.or.jp/award/slp-award2.html)\]<br>
 \[[pdf](/files/yamauchi25speasip_paper.pdf)\] \[[slide](/files/yamauchi25speasip_slide.pdf)\]
 
 

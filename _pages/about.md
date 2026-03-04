@@ -58,6 +58,10 @@ Aichi Prefectural Meiwa Senior High School<br>
 
 ## Awards & Honours
 
+- Mar. 2026<br>
+🎉 **2025 IPSJ SIG-SLP Best Student Paper Award (LY Corporation Award) / 2025年度 SLP研究会 企業賞 (LINEヤフー賞)** \[[link](https://www.ipsj.or.jp/award/slp-award2.html)\]<br>
+IPSJ SIG-SLP Committee / 情報処理学会 音声言語情報処理研究会
+
 - Dec. 2024<br>
 🎉 **IEEE Signal Processsing Society Japan Student Conference Paper Award** \[[link](https://www.ieee-jp.org/section/tokyo/chapter/SP-01/sp.htm)\]<br>
 IEEE Signal Processsing Society (SPS) Japan
