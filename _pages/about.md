@@ -88,9 +88,12 @@ The University of Tokyo
 
 ## Research and Work Experiences
 
+- May 2026 - Present<br>
+**Google DeepMind Tokyo**, Student Researcher Internship<br>
+Researching at Google DeepMind Tokyo.
 - Jul. 2025 - May 2026<br>
 **CyberAgent, Inc. AI Lab / 株式会社サイバーエージェント AI Lab**, Research Internship<br>
-Researching at the Audio team.
+Researched at the Audio team.
 - Jun. 2024 - Mar. 2025<br>
 **RIKEN Guardian Robot Project / 理研ガーディアンロボットプロジェクト**, Research Internship<br>
 Researched at Knowledge Acquisition and Dialogue Research Team.
