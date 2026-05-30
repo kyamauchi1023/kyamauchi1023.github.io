@@ -10,14 +10,10 @@ redirect_from:
 
 
 Hello, I am a Ph.D. student at [Saruwatari & Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
-My research focuses on the domain of speech and language processing such as speech synthesis, voice conversion, and speech enhancement.
-I am especially interested in modeling and generating expressive prosody.
-Also, through it, I aim to the development of human-friendly speech agents that can adaptively and naturally communicate with a variety of people.
+My research primarily focuses on speech and language processing, including speech synthesis, voice conversion, speech enhancement, and source separation using deep generative models.
 
 [東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [猿渡・齋藤研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 博士後期課程学生の山内一輝です．
-音声合成，音声変換，音声強調など，音声言語情報処理の領域を中心に研究しています．
-その中でも特に，表現力豊かな韻律のモデリングや生成に興味を持っています．
-また，それを通して，様々な人と適応的かつ自然にコミュニケーションができる，ヒューマンフレンドリーな音声エージェントの開発を目指しています．
+深層生成モデルを用いた音声合成・音声変換・音声強調・音源分離など、音声言語情報処理分野を中心に研究に取り組んでいます．
 
 **CV**: [cv_kazuki_yamauchi.pdf](/files/cv_kazuki_yamauchi.pdf)<br>
 **Email (university)**: yamauchi-kazuki042 [at] g.ecc.u-tokyo.ac.jp<br>
@@ -28,11 +24,9 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 ## Research Interests
 
 - Speech and Language Processing
-- Speech Synthesis
-- Speech Restoration
-- Natural Language Processing
-- Deep Learning
-- Signal Processing
+- Speech Synthesis and Conversion
+- Generative Audio Restoration and Separation
+- Deep generative modeling
 
 
 ## Education
