@@ -82,7 +82,7 @@ The University of Tokyo
 
 ## Research and Work Experiences
 
-- May 2026 - Present<br>
+- May 2026 - Nov. 2026<br>
 **Google DeepMind Tokyo**, Student Researcher Internship<br>
 Researching at Google DeepMind Tokyo.
 - Jul. 2025 - May 2026<br>
